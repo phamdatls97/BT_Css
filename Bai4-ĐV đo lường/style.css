@@ -1,0 +1,38 @@
+#html{
+    font-size: 16px;
+}
+#px{
+    width: 300px;
+    height: 250px;
+    background-color: red;
+}
+
+#pt{
+    width: 72pt;
+    height: 144pt;
+    background-color: orange;
+}
+
+#percent{
+    width: 500px;
+    height: 400px;
+    background-color: pink;
+}
+
+#child{
+    width: 50%;
+    height: 50%;
+    background-color: greenyellow;
+}
+
+#box{
+    font-size: 10px;
+    width: 8em;
+    background-color: burlywood;
+}
+
+#ptcon{
+    width: 4rem;
+    height: 4em;
+    background-color: blue;
+}

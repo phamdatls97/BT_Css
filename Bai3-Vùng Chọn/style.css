@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    font-weight: bold;
+}
+
+#tieu-de{
+    color: blue;
+}
+
+.tieude{
+    color: pink;
+}
+
+#menu ul li{
+    background: red;
+    color: white;
+}
+
+#social ul ul p{
+    color: purple;
+}
